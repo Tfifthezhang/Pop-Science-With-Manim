@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/tfifthefrank/Pop-Science-With-Manim/几何例子/media/videos/dragon/1080p60/partial_movie_files/Dragon/460724736_3467822883_1368185292.mp4'
+file 'file:/Users/tfifthefrank/Pop-Science-With-Manim/几何例子/media/videos/dragon/1080p60/partial_movie_files/Dragon/2631381958_3171094161_4045365252.mp4'
+file 'file:/Users/tfifthefrank/Pop-Science-With-Manim/几何例子/media/videos/dragon/1080p60/partial_movie_files/Dragon/1650765427_3875822800_2627697960.mp4'
+file 'file:/Users/tfifthefrank/Pop-Science-With-Manim/几何例子/media/videos/dragon/1080p60/partial_movie_files/Dragon/3782269135_2774195027_3200800908.mp4'
+file 'file:/Users/tfifthefrank/Pop-Science-With-Manim/几何例子/media/videos/dragon/1080p60/partial_movie_files/Dragon/497672603_2825132603_3200800908.mp4'
+file 'file:/Users/tfifthefrank/Pop-Science-With-Manim/几何例子/media/videos/dragon/1080p60/partial_movie_files/Dragon/3468115636_4072852433_4257750992.mp4'
+file 'file:/Users/tfifthefrank/Pop-Science-With-Manim/几何例子/media/videos/dragon/1080p60/partial_movie_files/Dragon/374494944_925166727_2293618879.mp4'
+file 'file:/Users/tfifthefrank/Pop-Science-With-Manim/几何例子/media/videos/dragon/1080p60/partial_movie_files/Dragon/2330354713_2672901780_1806346847.mp4'
+file 'file:/Users/tfifthefrank/Pop-Science-With-Manim/几何例子/media/videos/dragon/1080p60/partial_movie_files/Dragon/2970244725_3397740343_2484063230.mp4'
+file 'file:/Users/tfifthefrank/Pop-Science-With-Manim/几何例子/media/videos/dragon/1080p60/partial_movie_files/Dragon/4188837147_3846466226_1706165477.mp4'
+file 'file:/Users/tfifthefrank/Pop-Science-With-Manim/几何例子/media/videos/dragon/1080p60/partial_movie_files/Dragon/2101118923_1243556857_3438119185.mp4'
+file 'file:/Users/tfifthefrank/Pop-Science-With-Manim/几何例子/media/videos/dragon/1080p60/partial_movie_files/Dragon/3411385361_4042641242_1827225998.mp4'
